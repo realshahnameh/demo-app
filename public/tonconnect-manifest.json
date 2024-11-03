@@ -1,7 +1,7 @@
 {
-  "url": "https://realshahnameh.github.io/ton-connect/",
+  "url": "https://realshahnameh.github.io/demo-app/",
   "name": "Shahnameh Tonconnect Test",
-  "iconUrl": "https://realshahnameh.github.io/ton-connect/apple-touch-icon.png",
-  "termsOfUseUrl": "https://realshahnameh.github.io/ton-connect/terms-of-use.txt",
-  "privacyPolicyUrl": "https://realshahnameh.github.io/ton-connect/privacy-policy.txt"
+  "iconUrl": "https://realshahnameh.github.io/demo-app/apple-touch-icon.png",
+  "termsOfUseUrl": "https://realshahnameh.github.io/demo-app/terms-of-use.txt",
+  "privacyPolicyUrl": "https://realshahnameh.github.io/demo-app/privacy-policy.txt"
 }
